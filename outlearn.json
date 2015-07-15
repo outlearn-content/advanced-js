@@ -20,7 +20,7 @@
   ],
 
   "modules" : [
-    {"olm" : "./modules/node-resources.md"}
+    {"olm" : "./modules/advancedjs-resources.md"}
   ],
 
   "assets" : [
