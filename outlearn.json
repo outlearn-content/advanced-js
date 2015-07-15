@@ -1,0 +1,28 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "advanced-js",
+      "title" : "Advanced JavaScript Highlights",
+      "description" : "If you already know JavaScript and want to dig deeper, this is the path for you. Get to know more about prototypical inheritance, choosing a front-end framework, promises, and more.",
+      "privacy" : "public",
+      "socialBar" : false,
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/advanced-js/master/assets/calligraphy.jpg",
+      "pages" : [
+        {"page" : "./pages/welcome.md"},
+        {"module" : "mozilla-developer-network/re-introduction"},
+        {"module" : "mozilla-developer-network/inheritance-prototype-chain"},
+        {"module" : "advancedjs-resources"},
+        {"page" : "./pages/next-steps.md"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/node-resources.md"}
+  ],
+
+  "assets" : [
+  ]
+}
