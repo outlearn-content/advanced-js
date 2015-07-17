@@ -15,6 +15,8 @@
 
 # Advanced JavaScript Learning Resources
 
+There's a ton to learn about JavaScript and the best way is to go and build something, especially in collaboration with others who can give you feedback. In addition, here are some further resources to keep you on the path to being a JavaScript ninja.
+
 * [Eloquent JavaScript](http://eloquentjavascript.net) by Marijn Haverbeke is a great overview and has a fair bit of advanced content too.
 * Check out [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for a collection of resources on various JavaScript topics.
 * [JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) is a great place for those looking to add more best practices to their coding.
