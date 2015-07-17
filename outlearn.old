@@ -16,8 +16,12 @@
         {"page" : "./pages/frameworks.md"},
         {"module" : "frameworks"},
         {"page" : "./pages/asynchronous.md"},
+        {"module" : "html5rocks/javascript-promises"},
+        {"module" : "html5rocks/async-call-stack"},
         {"page" : "./pages/stay-out-of-trouble.md"},
+        {"module" : "bonsaiden/javascript-garden"},
         {"page" : "./pages/future-of-javascript.md"},
+        {"module" : "bonsaiden/understanding-es6"},
         {"module" : "advancedjs-resources"},
         {"page" : "./pages/next-steps.md"}
       ]
