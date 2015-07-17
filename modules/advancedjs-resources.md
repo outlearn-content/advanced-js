@@ -13,12 +13,11 @@
 
 <!-- @section -->
 
-# Video Courses on Advanced JavaScript Special Topics
-
-
-
-<!-- @section -->
-
 # Advanced JavaScript Learning Resources
 
-Here are some video courses on advanced Node.js topics like design patterns and continuous integration.
+* [Eloquent JavaScript](http://eloquentjavascript.net) by Marijn Haverbeke is a great overview and has a fair bit of advanced content too.
+* Check out [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for a collection of resources on various JavaScript topics.
+* [JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) is a great place for those looking to add more best practices to their coding.
+* [Advanced JavaScript](http://www.pluralsight.com/courses/advanced-javascript) by Kyle Simpson is an online video course that focuses on scope, closures, object orientation, and async patterns and goes really deep into each of them.
+
+Have you found some awesome stuff about advanced JavaScript? Add your suggestions with the feedback button on the right! We'd love to hear from you.
