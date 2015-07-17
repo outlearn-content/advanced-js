@@ -16,7 +16,7 @@
         {"page" : "./pages/frameworks.md"},
         {"module" : "frameworks"},
         {"page" : "./pages/asynchronous.md"},
-        {"module" : "html5rocks/javascript-promises"},
+        {"module" : "html5-rocks/javascript-promises"},
         {"page" : "./pages/stay-out-of-trouble.md"},
         {"page" : "./pages/future-of-javascript.md"},
         {"module" : "advancedjs-resources"},
