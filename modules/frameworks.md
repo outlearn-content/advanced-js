@@ -2,17 +2,23 @@
 {
 "name" : "frameworks",
 "version" : "0.0.1",
-"title" : "Next Steps for Advanced JavaScript Learning",
-"description" : "This module provides links to additional JavaScript learning resources.",
-"freshnessDate" : 2015-07-16,
-"license" : "Creative Commons Attribution 4.0 International"
+"title" : "Frameworks",
+"description" : "How to choose a front-end framework and a hybrid UI framework.",
+"freshnessDate" : 2014-06-01,
+"license" : "All Rights Reserved"
 }
 -->
 
 <!-- @section -->
 
-# Blad
+# Choosing a front-end framework
 
-https://www.airpair.com/js/javascript-framework-comparison
+[![AngularJS vs. Backbone.js vs. Ember.js](https://raw.githubusercontent.com/outlearn-content/advanced-js/master/assets/urishaked-angular-backbone-ember.png)](https://www.airpair.com/js/javascript-framework-comparison)
 
-https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen
+
+
+<!-- @section -->
+
+# Choosing a hybrid UI framework
+
+[![Hybrid UI framework shootout: Ionic vs. Famo.us vs. F7 vs. OnsenUI](talgleichger-ionic-famo-f7-onsenui.png)](https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen)
