@@ -21,4 +21,4 @@
 
 # Choosing a hybrid UI framework
 
-[![Hybrid UI framework shootout: Ionic vs. Famo.us vs. F7 vs. OnsenUI](talgleichger-ionic-famo-f7-onsenui.png)](https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen)
+[![Hybrid UI framework shootout: Ionic vs. Famo.us vs. F7 vs. OnsenUI](https://raw.githubusercontent.com/outlearn-content/advanced-js/master/assets/talgleichger-ionic-famo-f7-onsenui.png)](https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen)
