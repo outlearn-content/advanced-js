@@ -13,6 +13,15 @@
         {"page" : "./pages/welcome.md"},
         {"module" : "mozilla-developer-network/re-introduction"},
         {"module" : "mozilla-developer-network/inheritance-prototype-chain"},
+        {"page" : "./pages/frameworks.md"},
+        {"module" : "frameworks"},
+        {"page" : "./pages/asynchronous.md"},
+        {"module" : "html5rocks/javascript-promises"},
+        {"module" : "html5rocks/async-call-stack"},
+        {"page" : "./pages/stay-out-of-trouble.md"},
+        {"module" : "bonsaiden/javascript-garden"},
+        {"page" : "./pages/future-of-javascript.md"},
+        {"module" : "bonsaiden/understanding-es6"},
         {"module" : "advancedjs-resources"},
         {"page" : "./pages/next-steps.md"}
       ]
@@ -20,7 +29,8 @@
   ],
 
   "modules" : [
-    {"olm" : "./modules/advancedjs-resources.md"}
+    {"olm" : "./modules/advancedjs-resources.md"},
+    {"olm" : "./modules/frameworks.md"}
   ],
 
   "assets" : [

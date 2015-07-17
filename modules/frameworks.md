@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "advancedjs-resources",
+"name" : "frameworks",
 "version" : "0.0.1",
 "title" : "Next Steps for Advanced JavaScript Learning",
 "description" : "This module provides links to additional JavaScript learning resources.",
@@ -9,16 +9,10 @@
 }
 -->
 
-
-
 <!-- @section -->
 
-# Video Courses on Advanced JavaScript Special Topics
+# Blad
 
+https://www.airpair.com/js/javascript-framework-comparison
 
-
-<!-- @section -->
-
-# Advanced JavaScript Learning Resources
-
-Here are some video courses on advanced Node.js topics like design patterns and continuous integration.
+https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen

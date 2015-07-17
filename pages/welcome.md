@@ -1,15 +1,14 @@
 # Introduction
 
-Greetings!  Welcome to JavaScript Backends with Node.js!
+Greetings! Welcome to Advanced JavaScript Highlights!
 
-We have put together this learning path for people who are experienced software programmers but are new to Node.js as an environment and to JavaScript as a language for serious programming. It's relatively short and fast-paced, but an experienced programmer should have no trouble keeping up.
+There are plenty of basic JavaScript tutorials out there that get you started. But when it comes to developing a real app for real customers, the stakes get higher and you got to get deeper in your JavaScript journey. This learning path will highlight some of the key topics to get you to level up. We'll cover prototypical prototypical inheritance, front-end frameworks, hybrid UI frameworks, asynchronous coding, avoiding common pitfalls, and the future of JavaScript.
 
-The path includes content from a variety of sources, all of which are openly licensed or for which I have received permission from the authors to republish their content here.  I have enhanced the content to make it more engaging by inserting little tasks and quizzes at appropriate points.
+We start with A Re-introduction to JavaScript which targets experienced developers who want to make sure they are using JavaScript right. We'll then take a careful look at prototypical inheritance. This is a core design feature in JavaScript that differs from lots of other object-oriented languages. If you want to review some of the prerequisites for this module, go check out [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) and [Details of the Object Model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model).
 
-We'll start with a Re-introduction to JavaScript for those who've been stuck in other languages for too long, and then we'll get right into the meat of Node.js server-side framework. At the end we'll give you an overview of where to learn more about several advanced topics in Node.js.
 
-Good luck!
 
-Bob Loblaw  
-VP Engineering  
-SuperMegaCorp
+Good luck!  
+Captain Calligraphy  
+
+About the author
