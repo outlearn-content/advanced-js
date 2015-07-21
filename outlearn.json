@@ -18,7 +18,9 @@
         {"page" : "./pages/asynchronous.md"},
         {"module" : "html5-rocks/javascript-promises"},
         {"module" : "problem-with-promises"},
+        {"module" : "html5-rocks/async-call-stack"},
         {"page" : "./pages/stay-out-of-trouble.md"},
+        {"module" : "javascript-garden/javascript-garden"},
         {"page" : "./pages/future-of-javascript.md"},
         {"module" : "advancedjs-resources"},
         {"page" : "./pages/next-steps.md"}
