@@ -12,3 +12,13 @@ Good luck!
 Captain Calligraphy  
 
 About the author
+
+<img src="https://raw.githubusercontent.com/outlearn-content/advanced-js/master/assets/fountain-pen.jpg" alt="Shield" style="width:250px;height:250px" align="left">
+
+<br clear="all">
+
+**About the Author:**
+
+Captain Calligraphy is one of the developer superheroes who like to hang out at Outlearn and is Outlearn's resident expert on JavaScript.
+
+On a sunny day you can find Captain Calligraphy crafting his latest web app in a garden outside his office at Oxford University. For any new project, he immediately knows a perfect solution in elegant JavaScript.
