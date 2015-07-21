@@ -22,7 +22,7 @@
         {"page" : "./pages/stay-out-of-trouble.md"},
         {"module" : "javascript-garden/javascript-garden"},
         {"page" : "./pages/future-of-javascript.md"},
-        {"module" : "nicholaszakas/understanding-es6"},
+        {"module" : "lukehoban/es6features"},
         {"module" : "advancedjs-resources"},
         {"page" : "./pages/next-steps.md"}
       ]
