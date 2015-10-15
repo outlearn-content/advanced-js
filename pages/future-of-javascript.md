@@ -5,4 +5,4 @@ The haphazard history of JavaScript has led to all kinds of trouble as people ha
 Finally, you'll see a Module that collects together some awesome ways to continue to master advanced JavaScript.
 
 Moving on!  
-Captain Calligraphy
+Jonathan
