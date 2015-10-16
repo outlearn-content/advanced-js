@@ -5,4 +5,4 @@ There's so much to learn about JavaScript and new cool tools and best practices 
 If you find top-notch stuff that you enjoy, go ahead the make some suggestions using the feedback widget on the right. I'd love to hear from you.
 
 Take care!  
-Jonathan
+Jon
