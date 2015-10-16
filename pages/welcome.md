@@ -11,8 +11,10 @@ Jonathan
 
 About the author
 
-<img src="https://raw.githubusercontent.com/outlearn-content/advanced-js/master/assets/fountain-pen.jpg" alt="Shield" style="width:250px;height:250px" align="left">
+<img src="https://raw.githubusercontent.com/outlearn-content/advanced-js/master/assets/jonathan_mills.jpg" alt="Jonathan Mills" style="width:250px;height:250px" align="left">
 
 <br clear="all">
 
 **About the Author:**
+
+Jonathan Mills is a Pluralsight Author, Microsoft ASP.Net Insider, and International Speaker on topics ranging from Node.js and Angular to Management and Agile Development. Jon is a consultant with Paige Technologies and helps our clients deal with the constantly changing landscape of software development. Jon also has the opportunity to promote positive management and project practices. Jon’s current favorite tech stack is JavaScript including Angular and Node, but is constantly paying attention to the next big thing.
