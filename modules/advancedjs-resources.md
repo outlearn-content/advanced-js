@@ -4,6 +4,7 @@
 "version" : "0.0.1",
 "title" : "Next Steps for Advanced JavaScript Learning",
 "description" : "This module provides links to additional JavaScript learning resources.",
+"author" : "Jonathan Mills",
 "freshnessDate" : 2015-07-16,
 "license" : "Creative Commons Attribution 4.0 International"
 }

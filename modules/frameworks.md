@@ -4,6 +4,7 @@
 "version" : "0.0.1",
 "title" : "Frameworks",
 "description" : "How to choose a front-end framework and a hybrid UI framework.",
+"author" : "Jonathan Mills",
 "freshnessDate" : 2014-06-01,
 "license" : "All Rights Reserved"
 }
