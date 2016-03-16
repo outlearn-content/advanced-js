@@ -9,8 +9,6 @@ We kick off the Path with "A Re-introduction to JavaScript" which targets experi
 Good luck!  
 Jon  
 
-About the author
-
 <img src="https://raw.githubusercontent.com/outlearn-content/advanced-js/master/assets/jonathan_mills.jpg" alt="Jonathan Mills" style="width:250px;height:250px" align="left">
 
 <br clear="all">
